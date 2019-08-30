@@ -5,9 +5,9 @@
 ---
 
 
-View the notebook [here](/notebook.ipynb)
-Read the blog post [here](http://sara-codes.com/from-my-talk-at-pycones-2018/)
-Download the slides [here](/presentation.pdf)
-Watch the video of the talk [here](https://youtu.be/lYeAvnHcZy8)
+- View the notebook [here](/notebook.ipynb)
+- Read the blog post [here](http://sara-codes.com/from-my-talk-at-pycones-2018/)
+- Download the slides [here](/presentation.pdf)
+- Watch the video of the talk [here](https://youtu.be/lYeAvnHcZy8)
 
 
